@@ -4,7 +4,7 @@ void testConsole();
 
 int main() {
  int otvet;
- cout<<"Type of input "<<endl;				//выбираем тип тестирования(через файл или консоль)
+ cout<<"Type of input "<<endl;				//РІС‹Р±РёСЂР°РµРј С‚РёРї С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЏ(С‡РµСЂРµР· С„Р°Р№Р» РёР»Рё РєРѕРЅСЃРѕР»СЊ)
  cout<<"1. Console "<<endl;
  cout<<"2. Text  "<<endl;
  while(cin>>otvet){
@@ -24,7 +24,7 @@ int main() {
  return 0;
 }
 
-void testConsole() {									//тест через консоль
+void testConsole() {									//С‚РµСЃС‚ С‡РµСЂРµР· РєРѕРЅСЃРѕР»СЊ
  ui n1, n2;
 
  cout << "Type size of polynom A:\t";
@@ -77,7 +77,7 @@ void testConsole() {									//тест через консоль
  cout << endl << "integral Adx from 0 to " << 10 << " = \t" << t8 << endl;
 }
 
-void testFile(const char * filename) {					//тест из файла
+void testFile(const char * filename) {					//С‚РµСЃС‚ РёР· С„Р°Р№Р»Р°
  ifstream fin(filename);
  ifstream infile(filename);
  infile.seekg(ios::beg);

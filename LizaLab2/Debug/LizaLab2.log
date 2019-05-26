@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\taras\source\repos\lizalab2\lizalab2\source.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\taras\source\repos\lizalab2\lizalab2\source.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\taras\source\repos\lizalab2\lizalab2\source.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\taras\source\repos\lizalab2\lizalab2\source.cpp(120): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\taras\source\repos\lizalab2\lizalab2\source.cpp(131): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\taras\source\repos\lizalab2\lizalab2\source.cpp(146): warning C4018: <: несоответствие типов со знаком и без знака
+  LizaLab2.vcxproj -> C:\Users\Taras\source\repos\LizaLab2\Debug\LizaLab2.exe
